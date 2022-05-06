@@ -1,0 +1,27 @@
+{
+  "name": "xpress_app",
+  "version": "1.0.0",
+  "description": "xpress_app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo specified no test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harivj18/express_app.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Hariharan A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harivj18/express_app/issues"
+  },
+  "homepage": "https://github.com/Harivj18/express_app#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
